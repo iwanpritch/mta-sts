@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx1.hughespritchard.co.uk     
+mx: mx2.hughespritchard.co.uk  
+max_age: 86401    
